@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simone Colabufalo</title>
+    <link>https://simonecolabufalo.com/</link>
+    <description>Recent content on Simone Colabufalo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 26 Feb 2019 00:40:50 +0100</lastBuildDate>
+    
+	<atom:link href="https://simonecolabufalo.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://simonecolabufalo.com/about-me/</link>
+      <pubDate>Tue, 26 Feb 2019 00:40:50 +0100</pubDate>
+      
+      <guid>https://simonecolabufalo.com/about-me/</guid>
+      <description>Coffee   Visto che sei capitato in questa pagina, vorrei dirti qualcosa su di me.
+Il mio nome è Simone Colabufalo, classe 1990 ( the best one, anyway ) e sono di Pescara. Ho tantissimi hobby. Veramente tanti. Non riesco a stargli dietro. Uno dei miei hobby l&amp;rsquo;ho trasformato in lavoro: ho scelto di migliorare e affinare le mie competenze nell&amp;rsquo;ambito dello sviluppo web e bene o male ci sono riuscito:</description>
+    </item>
+    
+  </channel>
+</rss>
